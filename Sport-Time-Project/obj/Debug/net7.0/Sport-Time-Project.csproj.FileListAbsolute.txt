@@ -1,0 +1,28 @@
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.exe
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.deps.json
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.runtimeconfig.json
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.dll
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.pdb
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.AssemblyInfo.cs
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.dll
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\refint\Sport-Time-Project.dll
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.pdb
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.genruntimeconfig.cache
+C:\Users\Max\source\repos\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\ref\Sport-Time-Project.dll
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.exe
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.deps.json
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.runtimeconfig.json
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.dll
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\bin\Debug\net7.0\Sport-Time-Project.pdb
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.AssemblyInfoInputs.cache
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.AssemblyInfo.cs
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.dll
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\refint\Sport-Time-Project.dll
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.pdb
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\Sport-Time-Project.genruntimeconfig.cache
+C:\Users\Max\source\My projects\Sport-Time-Project\Sport-Time-Project\obj\Debug\net7.0\ref\Sport-Time-Project.dll
